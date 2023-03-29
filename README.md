@@ -1,5 +1,5 @@
 <p align="center">
-  <
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Jatin+Sharma;Frontend Developer;Compiler Design)](https://git.io/typing-svg)
              </p>
 
