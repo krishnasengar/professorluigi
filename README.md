@@ -1,5 +1,7 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Jatin+Sharma;Second+line+of+text)](https://git.io/typing-svg)
+<p align="center">
+  <
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Jatin+Sharma;Frontend Developer;Compiler Design)](https://git.io/typing-svg)
+             </p>
 
 <h3>🧰 Frameworks and Libraries</h3>
 
