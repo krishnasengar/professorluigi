@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=professorluigi" alt="professorluigi" /></a> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=currently+working+as+cs+developer+at;SKAO+Radio+Telescope;looking+to+collaborate+on;Compiler+based+project;fond+of+making+viruses;ask+me+about+opengl)](https://professorluigi.github.io)
-
 
 
   <h3>💻 GitHub Profile Stats</h3>
