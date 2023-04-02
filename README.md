@@ -9,6 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=professorluigi" alt="professorluigi" /></a> </p>
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
   <h3>💻 GitHub Profile Stats</h3>
