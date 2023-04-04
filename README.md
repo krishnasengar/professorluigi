@@ -1,4 +1,4 @@
-<img src="https://badgeapplication.onrender.com/image" alt="Banner" width="100%" >
+<img src="https://badgeapplication.onrender.com/image" alt="Banner" width="10%" >
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Luigi+Bibbo;Frontend+Developer;Compiler+Designer)](https://professorluigi.github.io)
