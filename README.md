@@ -1,3 +1,5 @@
+<img src="https://badgeapplication.onrender.com/image" alt="Banner" width="100%" >
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Luigi+Bibbo;Frontend+Developer;Compiler+Designer)](https://professorluigi.github.io)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=professorluigi&label=Profile%20views&color=0e75b6&style=flat" alt="Luigi bibbo" /> </p>
