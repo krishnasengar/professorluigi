@@ -1,4 +1,4 @@
-<img src="https://badgeapplication.onrender.com/spider-web-graph?categories=Jatin+A,Category%20B,Category%20C,Category%20D,Category%20E&values=5,3,7,2,6&width=600&height=600&scale=2&category_text_size=17" alt="Banner" width="50%" >
+<img src="https://badgeapplication.onrender.com/spider-web-graph?categories=Python,Cpp,cs,Java,Javascript&values=5,3,7,2,6&width=600&height=600&scale=2&category_text_size=17" alt="Banner" width="50%" >
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Luigi+Bibbo;Frontend+Developer;Compiler+Designer)](https://professorluigi.github.io)
