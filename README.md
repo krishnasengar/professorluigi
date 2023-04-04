@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Luigi+Bibbo;Frontend+Developer;Compiler+Designer)](https://professorluigi.github.io)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=professorluigi&label=Profile%20views&color=0e75b6&style=flat" alt="Luigi bibbo" /> </p>
 
-[![Website screenshot](https://example.com/screenshot.png)](https://example.com)
+[![Website screenshot](http://localhost:5000/image?name=John+Doe&color=red)](https://example.com)
 
 [![Hack The Box Badge](hackthebox-badge.md)](https://app.hackthebox.com/profile/113818)
 
