@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Luigi+Bibbo;Frontend+Developer;Compiler+Designer)](https://professorluigi.github.io)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=professorluigi&label=Profile%20views&color=0e75b6&style=flat" alt="Luigi bibbo" /> </p>
 
-[![Website screenshot](http://localhost:5000/image?name=John+Doe&color=red)](https://example.com)
+
 
 [![Hack The Box Badge](hackthebox-badge.md)](https://app.hackthebox.com/profile/113818)
 
@@ -15,7 +15,7 @@
 
 <h3 > ⚡ Trophies</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=professorluigi" alt="professorluigi" /></a> </p>
+<p align="left"> <a href="https://github.com/professorluigi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=professorluigi" alt="professorluigi" /></a> </p>
 
 
 
